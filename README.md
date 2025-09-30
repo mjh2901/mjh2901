@@ -3,7 +3,6 @@
 **Senior Network Specialist @ Fremont Union High School District**  
 Working on anything that plugs into something else—and some light carpentry!
 
----
 
 ## 🛠️ Skills & Specialties
 - **Unix & Mac OS X**
