@@ -46,7 +46,7 @@ When not commuting, you’ll find me and my wife Amy at a Disney park or out adv
 mike@mikehathaway.com
 
 
-> “Every system is a puzzle, and every day is another chance to help someone solve theirs.”
+💭 “I believe in being an innovator” Walt Disney
 <!--
 **mjh2901/mjh2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
