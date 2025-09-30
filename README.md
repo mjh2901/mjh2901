@@ -11,6 +11,15 @@ Working on anything that plugs into something else—and some light carpentry!
 - **Juniper Wired Networking**
 
 ---
+## 🌱 I’m currently learning 
+- Powershell scripting in Active Directory
+
+---
+
+## 🔭 I’m currently working on:
+- Ursala connecting data from the districts Adult Ed student managment system with Active Directory, Google, Schoology, and Reach My Teach... Ursala has many tenticals.  
+
+---
 
 ## 👨‍💻 What I Do
 I keep systems running, write documentation, and hack out code whenever possible.  
@@ -35,7 +44,9 @@ A comprehensive documentation project for managing and sharing knowledge about c
 ## 🏰 Outside of Work
 When not commuting, you’ll find me and my wife Amy at a Disney park or out adventuring with Digbe, our Golden Retriever.
 
----
+## 📫 How to reach me:
+mike@mikehathaway.com
+
 
 > “Every system is a puzzle, and every day is another chance to help someone solve theirs.”
 <!--
@@ -44,11 +55,6 @@ When not commuting, you’ll find me and my wife Amy at a Disney park or out adv
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
