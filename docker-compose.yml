@@ -1,0 +1,15 @@
+services:
+  jekyll:
+    image: bretfisher/jekyll-serve
+    container_name: dev.mikehathaway.com
+    network_mode: bridge
+    ports:
+      - "4003:4000"
+    volumes:
+      - .:/site
+    restart: unless-stopped
+   
+
+
+  
+

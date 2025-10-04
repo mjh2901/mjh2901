@@ -1,0 +1,54 @@
+---
+title: Ideas, Tutorials, Pictures & Code
+timezone: America/Los_Angeles
+collections:
+  portfolio:
+    title: Portfolio
+    output: true
+    permalink: "/:collection/:name"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+baseurl: ''
+url: https://mikehathaway.com
+description: Ideas, Tutorials, Pictures & Code
+avatar: assets/img/mh_logo.png
+favicon: assets/favicon.ico
+header_text: Mike Hathaway's Site
+header_feature_image: assets/img/feature-img/yosemit_cover.png
+header_feature_image_responsive: true
+footer_text: Copyright © 2024 Mike Hathaway
+excerpt: true
+post_navigation: true
+color_image: "/assets/img/lineart.png"
+paginate: 8
+paginate_path: "/blog/page:num"
+plugins:
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-feed
+- jekyll-admin
+- jekyll-include-cache
+katex: true
+mermaid: default
+google_analytics: 
+cookie_consent: false
+color_theme: dark
+comments:
+  disqus_shortname: 
+  cusdis_app_id: 
+  utterances:
+    repo: 
+    issue-term: 
+sass:
+  style: compressed
+exclude:
+- ".jekyll-cache"
+- ".jekyll-metadata"
+- ".idea"
+- vendor/*
+- assets/node_modules/*
+remote_theme: sylhare/Type-on-Strap
